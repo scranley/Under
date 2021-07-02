@@ -1,5 +1,7 @@
 pragma solidity 0.6.6;
 
+// GPLv3. See COPYING.
+
 // ----------------------------------------------------------------------------
 // 'UnderToken' token contract
 //
