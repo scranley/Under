@@ -5,7 +5,7 @@ pragma solidity 0.6.6;
 // ----------------------------------------------------------------------------
 // 'UnderToken' token contract
 //
-// Deployed to : 0xf108eAdaBB3AF99Bc2D0D43502A1083016c6AafD
+// Deployed to : 0x479108ff04a0b0c4dad94796c53edfda47f066e6
 // Symbol      : UNDR
 // Name        : Under
 // Total supply: 100,000,000,000,000
